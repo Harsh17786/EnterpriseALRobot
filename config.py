@@ -17,7 +17,7 @@ class Config(object):
 
     API_ID = "1570274"
     API_HASH = "d463fbcaa44274b3e969028dd570d3ab"
-    TOKEN = "1309720144:AAF8NDXiWEicsejVMC2MvWqyG90Sbxr08hM"
+    TOKEN = "1274895087:AAGIvQK7ua9yX4ySMbicsjA-I0oraGf_NjQ"
     OWNER_ID = 992712818  # If you dont know, run the bot and do /id in your private chat with it
     OWNER_USERNAME = "OtakuHarsh"
     #RECOMMENDED
