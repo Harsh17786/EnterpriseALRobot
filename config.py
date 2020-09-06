@@ -15,16 +15,16 @@ class Config(object):
     # REQUIRED
     #Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = "awoo"
-    API_HASH = "awoo"
-    TOKEN = "BOT_TOKEN"
-    OWNER_ID = 895373440  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "dank_as_fuck"
+    API_ID = "1570274"
+    API_HASH = "d463fbcaa44274b3e969028dd570d3ab"
+    TOKEN = "1309720144:AAF8NDXiWEicsejVMC2MvWqyG90Sbxr08hM"
+    OWNER_ID = 992712818  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "OtakuHarsh"
     #RECOMMENDED
 
-    SQLALCHEMY_DATABASE_URI = 'something://somewhat:user@hosturl:port/databasename'  # needed for any database modules
-    MESSAGE_DUMP = -1001253661229  # needed to make sure 'save from' messages persist
-    GBAN_LOGS = -1001190806654
+    SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
+    MESSAGE_DUMP = -345596805  # needed to make sure 'save from' messages persist
+    GBAN_LOGS = -1001250093122
     LOAD = []
     NO_LOAD = ['sed']
     WEBHOOK = False
@@ -50,7 +50,7 @@ class Config(object):
     ALLOW_EXCL = True  # Allow ! commands as well as / (Leave this to true so that blacklist can work)
     CASH_API_KEY = 'awoo'
     TIME_API_KEY = 'awoo'
-    WALL_API = 'awoo'  #For wallpapers, get one from https://wall.alphacoders.com/api.php
+    WALL_API = '4714b015a2eb31fab8d3b1849d93574d'  #For wallpapers, get one from https://wall.alphacoders.com/api.php
     AI_API_KEY = 'awoo'  #For chatbot, get one from https://coffeehouse.intellivoid.net/dashboard
     SPAMMERS = None
     LASTFM_API_KEY = ""
