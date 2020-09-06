@@ -54,7 +54,7 @@ class Config(object):
     AI_API_KEY = 'awoo'  #For chatbot, get one from https://coffeehouse.intellivoid.net/dashboard
     SPAMMERS = None
     LASTFM_API_KEY = ""
-    spamwatch_api = ""
+    spamwatch_api = "VxZMFkViTz6vLAzToVAYeK5J7Bx3EGL20z2_GbGLDy3Aa3NLfFmO7wMcfKHKMGSY"
 
 
 class Production(Config):
