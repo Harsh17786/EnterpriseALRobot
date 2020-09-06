@@ -88,9 +88,6 @@ if ENV:
     LASTFM_API_KEY = os.environ.get("LASTFM_API_KEY", None)
     spamwatch_api = os.environ.get("sw_api", None)
 
-else:
-    from tg_bot.config import Development as Config
-
     TOKEN = Config.TOKEN
 
     try:
